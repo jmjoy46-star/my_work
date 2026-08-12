@@ -1,0 +1,4 @@
+try:
+    print(a)
+except NameError:
+    print("Variable not defined")
